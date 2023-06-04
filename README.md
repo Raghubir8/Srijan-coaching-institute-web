@@ -1,0 +1,1 @@
+This repository contains the source code and files for the Srijan Coaching Institute website, a platform dedicated to IIT JEE and NEET preparation. The website provides comprehensive resources, study materials, practice tests, and guidance for aspiring students preparing for these highly competitive entrance exams.
